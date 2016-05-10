@@ -25,8 +25,6 @@ MD 还有表格、锚、注脚、贴图等。强烈推荐 Mou，按 ⌘＋R 可�
 
 6. 慢慢，你会发现，总有小「bugs」，如列表内无法内嵌代码段。上网查查，你开始理解 MD 的缩进内嵌机制等高级隐形内容，这样你就 Master 了！
 
-7. 关键一步，催知乎支持 MD 编辑器~用鼠标排版好累的……
-
 ---
 # on my time
 - - -
@@ -51,7 +49,7 @@ MD 还有表格、锚、注脚、贴图等。强烈推荐 Mou，按 ⌘＋R 可�
 ---
 [听说这样是链接][http://www.jianshu.com/notebooks/4128032/latest]
 <br />[什么鬼哦，这才是链接好么](www.jianshu.com)
-<br />[楼上错啦，链接是要加HTTP的~](http://www.jianshu.com/notebooks/4128032/latest)
+<br />[楼上不科学，链接是要加HTTP的~](http://www.jianshu.com/notebooks/4128032/latest)
 <br />[其实链接现在很多都改成HTTPS了！](https://www.jianshu.com/notebooks/4128032/latest)
 <br />[唉，为毛我看到上面说这样也行呢~][标识码是什么鬼？]:http://www.jianshu.com/notebooks/4128032/latest
 
